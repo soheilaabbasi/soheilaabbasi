@@ -11,7 +11,7 @@
 
 ## 🛠️ Technologies & Tools
 
-### 👨‍💻 Programming Languages / ### 🗄️ Databases
+### 👨‍💻 Programming Languages / 🗄️ Databases
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
