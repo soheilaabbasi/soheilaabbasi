@@ -5,6 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com//)](https://www.instagram.com/)
 [![Github](https://img.shields.io/github/followers/soheilaabbasi?label=Follow&style=social)](https://github.com/soheilaabbasi)
 
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= soheilaabbasi&show_icons=true&locale=en&layout=compact" alt=" soheilaabbasi" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user= soheilaabbasi&" alt=" soheilaabbasi" />
+</div>
 
 <!--
 **soheilaabbasi/soheilaabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
