@@ -1,4 +1,4 @@
-<h1> soheila abbasi  <h1>
+<h1> Soheila Abbasi Habashi <h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheila-abbasi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soheila.abbasi7@gmail.com)
