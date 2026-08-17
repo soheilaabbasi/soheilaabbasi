@@ -5,6 +5,9 @@
 [![Github](https://img.shields.io/github/followers/soheilaabbasi?label=Follow&style=social)](https://github.com/soheilaabbasi)
 
 <div>
+  <img width="45%" align="left"
+  src="https://github-readme-stats-eight-delta-bw6glbfv0i.vercel.app/api/top-langs/?username=soheilaabbasi&layout=compact&locale=en"
+  alt="Most Used Languages" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi&" alt="soheilaabbasi" />
 </div>
 
