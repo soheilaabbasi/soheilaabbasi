@@ -4,12 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soheila.abbasi7@gmail.com)
 [![Github](https://img.shields.io/github/followers/soheilaabbasi?label=Follow&style=social)](https://github.com/soheilaabbasi)
 
-<div align="center">
-  <img
-  width="45%"
-  src="https://github-readme-stats-soheila-abbasi.vercel.app/api/top-langs/?username=soheilaabbasi&layout=compact"
-  alt="Most Used Languages"
-/>
+<div>
   <img 
     width="50%" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi"
