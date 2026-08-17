@@ -5,7 +5,11 @@
 [![Github](https://img.shields.io/github/followers/soheilaabbasi?label=Follow&style=social)](https://github.com/soheilaabbasi)
 
 <div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi&" alt="soheilaabbasi" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi&" alt="soheilaabbasi" />
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Technologies & Tools
