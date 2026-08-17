@@ -4,14 +4,20 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soheila.abbasi7@gmail.com)
 [![Github](https://img.shields.io/github/followers/soheilaabbasi?label=Follow&style=social)](https://github.com/soheilaabbasi)
 
-<div>
+<div align="center">
+
   <img 
     width="45%" 
-    align="left"
     src="https://github-readme-stats-eight-delta-bw6glbfv0i.vercel.app/api/top-langs/?username=soheilaabbasi&layout=compact&locale=en"
-    alt="Most Used Languages" 
+    alt="Most Used Languages"
   />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi&" alt="soheilaabbasi" />
+
+  <img 
+    width="50%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi"
+    alt="GitHub Streak"
+  />
+
 </div>
 
 ## 🛠️ Technologies & Tools
