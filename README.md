@@ -7,7 +7,7 @@
 <div align="center">
   <img
   width="45%"
-  src="https://github-readme-stats-soheila-abbasi.vercel.app/api/top-langs?username=soheilaabbasi&layout=compact"
+  src="https://github-readme-stats-soheila-abbasi.vercel.app/api/top-langs/?username=soheilaabbasi&layout=compact&cache_seconds=86400"
   alt="Most Used Languages"
 />
   <img 
