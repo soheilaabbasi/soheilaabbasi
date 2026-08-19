@@ -4,14 +4,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soheila.abbasi7@gmail.com)
 [![Github](https://img.shields.io/github/followers/soheilaabbasi?label=Follow&style=social)](https://github.com/soheilaabbasi)
 
-<div>
-  <img 
-    width="50%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=soheilaabbasi"
-    alt="GitHub Streak"
-  />
-</div>
-
 ## 🛠️ Technologies & Tools
 
 ### 👨‍💻 Programming Languages / 🗄️ Databases
